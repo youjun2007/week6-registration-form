@@ -1,0 +1,13 @@
+# Local database created at runtime
+registrations.db
+*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
